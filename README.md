@@ -1,2 +1,2 @@
 # assignment4
-Creating a repository using GitHub. Assignment #4.
+This is a test project.
